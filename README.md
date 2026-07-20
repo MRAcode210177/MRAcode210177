@@ -21,14 +21,14 @@ const abdullah = {
     role: "Full Stack Developer / Software Engineer",
     education: "BIT @ University of Colombo School of Computing (UCSC)",
     currentlyBuilding: ["Algo Retail", "AURA"],
-    learning: ["Spring Boot", "Jakarta EE / Enterprise Architecture"],
+    learning: ["Spring Boot", "MERN stack"],
     askMeAbout: ["React", "Next.js", "Spring Boot", "System Design"],
     funFact: "I turn client requirements into shipped products 🚀"
 };
 ```
 
 - 🔭 Currently working on **Algo Retail** & **AURA**
-- 🌱 Currently diving deep into **Spring Boot** & **Jakarta EE / Enterprise Architecture**
+- 🌱 Currently diving deep into **Spring Boot** & **MERN stack**
 - 💬 Ask me about **React, Next.js, Spring Boot, System Design**
 - 🎓 Studying **IT at UCSC**
 - ⚡ Fun fact: **I turn client requirements into shipped products**
