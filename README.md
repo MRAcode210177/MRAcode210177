@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0969DA,100:00D9FF&height=220&section=header&text=M%20R.%20Abdullah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20Algo%20Retail%20%26%20AURA&descSize=18&descAlignY=55&descAlign=50" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0969DA,100:00D9FF&height=220&section=header&text=M%20R.%20Abdullah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20Algo%20Retail%20and%20AURA&descSize=18&descAlignY=55&descAlign=50" alt="header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Software+Engineer+%F0%9F%9A%80;Building+Algo+Retail+%26+AURA+%F0%9F%9B%A0%EF%B8%8F;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
